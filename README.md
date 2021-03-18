@@ -9,6 +9,9 @@ The training set consists of 28,709 examples. The public test set used for the l
 
 This dataset was prepared by Pierre-Luc Carrier and Aaron Courville, as part of an ongoing research project.
 
-## Approaches Used 
+src:- https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
 
-No.of emotions have been reduced to 6. A class category of disgust (label=1) is labeled 0 (as anger only) to make the dataset more balanced. Very few training images were provided in original dataset for disgust class thus it was labeled as anger only to reduce biasness from the model. ( This step is carried out for all model implementation ) 
+NOTE: No.of emotions have been reduced to 6. A class category of disgust (label=1) is labeled 0 (as anger only) to make the dataset more balanced. Very few training images were provided in original dataset for disgust class thus it was labeled as anger only to reduce biasness from the model. ( This step is carried out for all model implementation ) 
+
+
+## Approaches Used 
