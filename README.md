@@ -15,3 +15,8 @@ NOTE: No.of emotions have been reduced to 6. A class category of disgust (label=
 
 
 ## Approaches Used 
+
+| Model  | Test Accuracy |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
