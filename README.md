@@ -18,8 +18,8 @@ NOTE: No.of emotions have been reduced to 6. A class category of disgust (label=
 
 | Model  | Test Accuracy |
 | ------------- | ------------- |
-| Xception  | Content Cell  |
-| Resnet  | Content Cell  |
-| FER_manual_1  | Content Cell  |
-| FER_manual_2  | Content Cell  |
-| TransferLearning_Resnet50  | Content Cell  |
+| Xception  | 57.87  |
+| Resnet  | 61.44  |
+| FER_manual_1  | 67.35  |
+| FER_manual_2  | --  |
+| TransferLearning_Resnet50  | 69.00  |
