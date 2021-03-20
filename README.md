@@ -22,5 +22,5 @@ NOTE: No.of emotions have been reduced to 6. A class category of disgust (label=
 | Resnet  | 61.44  |
 | EmotionNet_VGG  | 66.27 |
 | FER_manual_1  | 67.35  |
-| FER_manual_2  | --  |
+| FER_manual_2  | 65.04  |
 | TransLearn_Oversampling_Resnet50  | 69.00  |
